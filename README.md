@@ -1,8 +1,6 @@
 # Dacon_NewsTopic_Classification
 
-#Still working
-
-I'll upload when competition is done.
+데이콘 뉴스토픽 분류 문제
 
 Just in case, if you guys want to tell or help me contact me.
 
